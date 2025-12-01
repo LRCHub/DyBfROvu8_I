@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Hold You Down",
+  "base_artist": "KEIJU",
+  "createdAt": "2025-12-01T03:41:14.149977Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sugar In The Hold",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Sugar_In_The_Hold_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hold The Line",
+      "artist": "TOTO",
+      "has_synced": true,
+      "path": "select/02_Hold_The_Line_TOTO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Help Me Hold On",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/03_Help_Me_Hold_On_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Help Me Hold On",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/04_Help_Me_Hold_On_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Help Me Hold On (2006 Remaster)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/05_Help_Me_Hold_On_(2006_Remaster)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Help Me Hold On (Remastered LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/06_Help_Me_Hold_On_(Remastered_LP_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hold Me",
+      "artist": "K.T. Oslin",
+      "has_synced": true,
+      "path": "select/07_Hold_Me_K.T._Oslin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hold My Horses",
+      "artist": "Madeline Edwards",
+      "has_synced": false,
+      "path": "select/08_Hold_My_Horses_Madeline_Edwards.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hold My Horses",
+      "artist": "MADELINE EDWARDS",
+      "has_synced": true,
+      "path": "select/09_Hold_My_Horses_MADELINE_EDWARDS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hold On",
+      "artist": "Hootie & The Blowfish",
+      "has_synced": true,
+      "path": "select/10_Hold_On_Hootie_&_The_Blowfish.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hold On",
+      "artist": "Rosanne Cash",
+      "has_synced": false,
+      "path": "select/11_Hold_On_Rosanne_Cash.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hold You Tonight (with Chris Lane)",
+      "artist": "Gryffin feat. Chris Lane",
+      "has_synced": true,
+      "path": "select/12_Hold_You_Tonight_(with_Chris_Lane)_Gryffin_feat._Chris_Lane.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hold You Tonight",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/13_Hold_You_Tonight_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hold on to Me",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/14_Hold_on_to_Me_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Hold On",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/15_I_Hold_On_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Just Wanna Hold You",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/16_I_Just_Wanna_Hold_You_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'll Hold You In My Heart (Till I Can Hold You In My Arms)",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/17_I'll_Hold_You_In_My_Heart_(Till_I_Can_Hold_You_In_My_Arms)_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hold me, Rain ～雨に抱かれて",
+      "artist": "高橋 真梨子",
+      "has_synced": false,
+      "path": "select/pl_01_Hold_me,_Rain_~雨に抱かれて_高橋_真梨子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Hold On Me",
+      "artist": "高橋 真梨子",
+      "has_synced": false,
+      "path": "select/pl_02_Hold_On_Me_高橋_真梨子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Hold On Me",
+      "artist": "高橋 真梨子",
+      "has_synced": false,
+      "path": "select/pl_03_Hold_On_Me_高橋_真梨子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "HOLD YOUR HEART",
+      "artist": "高橋 真梨子",
+      "has_synced": false,
+      "path": "select/pl_04_HOLD_YOUR_HEART_高橋_真梨子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "HOLD ME",
+      "artist": "高橋 真梨子",
+      "has_synced": false,
+      "path": "select/pl_05_HOLD_ME_高橋_真梨子.txt"
+    }
+  ]
+}
